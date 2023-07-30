@@ -1,0 +1,57 @@
+
+  
+
+.IcfTensive{
+    width:1000px;
+    height:80px;
+    background-color: rgb(229, 229, 202);
+    margin-top:-100;
+    
+}
+
+h6{
+    font-family: "Nova Round";
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:40;
+   text-transform: capitalize;
+   margin-top:-60px;
+
+   
+}
+
+p{
+    text-align:left;
+}
+
+.mates{
+    margin-top:-30px;
+}
+
+
+.comenzar button{
+    width:180;
+    height:60;
+    border-radius:14px;
+margin-top:60;
+font-size:20;
+}
+
+a{
+    text-decoration:none;
+}
+
+
+.areas{
+    width:520px; 
+    height:400px; 
+    background-color:red;
+}
+
+.a1{
+    width:255px;
+    height:197px;
+    background-color:black;
+    margin-top:-517;
+    margin-left:503px;
+}
